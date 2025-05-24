@@ -7,6 +7,7 @@ int main(){
     cin.tie(nullptr);
 
 
+    cout<< "Hello";
     
 
     return 0;
