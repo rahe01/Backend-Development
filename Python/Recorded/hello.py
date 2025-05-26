@@ -9,3 +9,14 @@ sub = x-y
 
 print(sum)
 print(sub)
+
+
+""" 
+ami rahat ahmed rahe 
+ 
+ 
+"""
+
+name = 100
+
+print(type(name))
